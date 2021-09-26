@@ -1,0 +1,7 @@
+{
+    "require": {
+        "google/apiclient": "^2.11",
+        "google/cloud-vision": "^1.5",
+        "google/cloud": "^0.166.0"
+    }
+}
